@@ -1,0 +1,8 @@
+*.js
+moni-api-go
+.env
+moni-api-go.zip
+.config/
+setupmailer
+left.routes.txt
+.env*
